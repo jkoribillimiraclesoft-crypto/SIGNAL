@@ -1,6 +1,0 @@
-streamlit
-anthropic
-sqlmodel
-plotly
-pandas
-python-dotenv
